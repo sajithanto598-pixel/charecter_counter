@@ -38,3 +38,18 @@ The counter updates instantly as the user types and shows a warning when the max
 ---
 
 ## 📂 Project Structure
+character-counter/
+│
+├── index.html
+└── README.md
+
+---
+
+## 💡 Learning Outcome
+
+Through this project, I practiced and strengthened my understanding of:
+
+- DOM Manipulation
+- Event Listeners in JavaScript
+- Dynamic UI updates
+- Handling user input in web applications
